@@ -1,9 +1,9 @@
-### Nine Mile Assignment  
-# To Build  
+# Nine Mile Assignment  
+### To Build  
 ```
 $ make
 ```  
-# To Run  
+### To Run  
 In one terminal (omit -p for no event logging on the server side):  
 ```
 $ ./event_replay -p StockData.csv  
